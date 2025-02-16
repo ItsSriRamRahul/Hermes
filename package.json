@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^1.1.11",
+    "ai": "^4.1.41",
     "next": "15.1.6",
     "next-video": "^2.0.4",
     "next-videos": "^1.4.1",
